@@ -1,4 +1,4 @@
-// 🧠 JavaScript OOP Cheat Sheet
+// 🧠 JavaScript OOP
 
 // ✅ Object literal
 const user = {
