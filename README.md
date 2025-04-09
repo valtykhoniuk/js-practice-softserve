@@ -8,3 +8,4 @@ lesson 3: Debugging. Handling exceptions. Memory management<br>
 lesson 4: OOP<br>
 lesson 5: DOM<br>
 lesson 6: BOM<br>
+lesson 7.1: Regulae expressions<br>
