@@ -12,3 +12,4 @@ lesson 7.1: Regular expressions<br>
 lesson 7.2: JQuery<br>
 lesson 7.3: Lodash<br>
 lesson 8: Spread. Destructuring. Symbol. Set, Map<br>
+lesson 9: Asynchronous JS<br>
