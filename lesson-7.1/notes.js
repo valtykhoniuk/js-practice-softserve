@@ -9,6 +9,8 @@ let reg2 = /pattern/; // Literal syntax
 // g - global search (all matches)
 // m - multiline mode (^ $ match line start/end)
 // s - dot matches newline
+// u - includes full Unicode support
+// y - search mode for a specific position in the text
 
 // 🔹 RegExp Methods:
 let str = "Data transfer started!";
