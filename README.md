@@ -13,4 +13,5 @@ lesson 7.2: JQuery<br>
 lesson 7.3: Lodash<br>
 lesson 8: Spread. Destructuring. Symbol. Set, Map<br>
 lesson 9: Asynchronous JS<br>
-lesson 10: NodeJS introduction<br>
+lesson 10: NodeJS introduction<br>`
+lesson 11: Node.js fullstack project with Fetch/AJAXn<br>`
