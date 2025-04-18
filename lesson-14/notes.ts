@@ -175,7 +175,7 @@ function log(target: any, propertyKey: string, descriptor: PropertyDescriptor) {
 }
 
 class Printer {
-  @log
+  //@log
   print(message: string) {
     console.log("Message:", message);
   }
